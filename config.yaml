@@ -1,0 +1,25 @@
+---
+id: RubyConf2021
+base_name: On-a-Keyboard-Ruby-on-Board--PicoRuby-and-PRK-Firmware
+source_code_uri: https://github.com/hasumikin/RubyConf2021
+tags:
+  - PicoRuby
+  - RP2040
+  - microcontroller
+presentation_date: '2021-11-08'
+presentation_start_time: 
+presentation_end_time: 
+version: 2021.11.xx.0
+licenses: []
+slideshare_id: 
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+youtube_id: 
+author:
+  markup_language: :rd
+  name: HASUMI Hitoshi
+  email: hasumikin@gmail.com
+  rubygems_user: hasumikin
+  slideshare_user: 
+  speaker_deck_user: 

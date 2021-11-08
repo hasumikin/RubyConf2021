@@ -1,0 +1,209 @@
+= On a Keyboard Ruby on Board
+: subtitle
+   PicoRuby and PRK Firmware
+: author
+  hasumikin
+: allotted-time
+   30m
+: theme
+   no_rabbit
+
+= ((' '))
+
+= ((' '))
+W
+= ((' '))
+Wa
+= ((' '))
+Wak
+= ((' '))
+Wake
+= ((' '))
+Wake 
+= ((' '))
+Wake u
+= ((' '))
+Wake up
+= ((' '))
+Wake up,
+= ((' '))
+Wake up, 
+= ((' '))
+Wake up, R
+= ((' '))
+Wake up, Ru
+= ((' '))
+Wake up, Rub
+= ((' '))
+Wake up, Ruby
+= ((' '))
+Wake up, Ruby.
+= ((' '))
+Wake up, Ruby..
+= ((' '))
+Wake up, Ruby...
+
+= ((' '))
+
+= ((' '))
+T
+= ((' '))
+Th
+= ((' '))
+The
+= ((' '))
+The 
+= ((' '))
+The M
+= ((' '))
+The Ma
+= ((' '))
+The Mat
+= ((' '))
+The Matr
+= ((' '))
+The Matri
+= ((' '))
+The Matr
+= ((' '))
+The Mat
+= ((' '))
+The Ma
+= ((' '))
+The M
+= ((' '))
+The Mi
+= ((' '))
+The Mic
+= ((' '))
+The Mico
+= ((' '))
+The Micon
+= ((' '))
+The Micon 
+= ((' '))
+The Micon h
+= ((' '))
+The Micon ha
+= ((' '))
+The Micon has
+= ((' '))
+The Micon has 
+= ((' '))
+The Micon has y
+= ((' '))
+The Micon has yo
+= ((' '))
+The Micon has you
+= ((' '))
+The Micon has you.
+= ((' '))
+The Micon has you..
+= ((' '))
+The Micon has you...
+
+= ((' '))
+
+= ((' '))
+F
+= ((' '))
+Fo
+= ((' '))
+Fol
+= ((' '))
+Foll
+= ((' '))
+Follo
+= ((' '))
+Follow
+= ((' '))
+Follow 
+= ((' '))
+Follow t
+= ((' '))
+Follow th
+= ((' '))
+Follow the
+= ((' '))
+Follow the 
+= ((' '))
+Follow the w
+= ((' '))
+Follow the wh
+= ((' '))
+Follow the whi
+= ((' '))
+Follow the whit
+= ((' '))
+Follow the white
+= ((' '))
+Follow the white 
+= ((' '))
+Follow the white r
+= ((' '))
+Follow the white ra
+= ((' '))
+Follow the white rab
+= ((' '))
+Follow the white rabb
+= ((' '))
+Follow the white rabbi
+= ((' '))
+Follow the white rabbit
+= ((' '))
+Follow the white rabbit.
+
+= ((' '))
+
+
+
+= HCENTER VCENTER MONO
+(('tag:x-small:written and presented by'))
+\n
+HASUMIKIN
+== prop
+: background-image
+   images/black.png
+: background-image-relative-width
+   110
+
+= HCENTER VCENTER MONO
+(('tag:x-small:supported by'))
+\n
+RUBY ASSOCIATION (('tag:x-small:and')) MONSTARLAB
+== prop
+: background-image
+   images/black.png
+: background-image-relative-width
+   110
+
+= HCENTER VCENTER MONO
+(('tag:x-small:mentor'))
+\n
+MATZ
+== prop
+: background-image
+   images/black.png
+: background-image-relative-width
+   110
+
+= HCENTER VCENTER MONO
+(('tag:x-small:follow the'))
+  # image
+  # src = images/picoruby.png
+  # relative_width = 20
+== prop
+: background-image
+   images/black.png
+: background-image-relative-height
+   120
+: background-image-relative-width
+   120
+
+= HCENTER VCENTER MONO
+(('tag:x-small:an')) ESSENTIALLY RUBY (('tag:x-small:production')) 
+== prop
+: background-image
+   images/black.png
+: background-image-relative-width
+   110
