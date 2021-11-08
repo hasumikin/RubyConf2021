@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/hasumikin/rabbit.git
-  revision: d2d0d3a81c9c39bf259b758a42576d9654a9e47f
+  revision: be58caad09cda96d3f2cafd4713640726c93cd5d
   branch: arbitrary_pdf_size
   specs:
     rabbit (3.0.2)
@@ -94,7 +94,7 @@ GEM
     poppler (3.4.9)
       cairo-gobject (= 3.4.9)
       gio2 (= 3.4.9)
-    racc (1.5.2)
+    racc (1.6.0)
     rake (13.0.6)
     rdtool (0.6.38)
     red-colors (0.3.0)
